@@ -10,8 +10,16 @@
   --margin-top: 37px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: #f5f8ff;
+}
+
+a{
+  text-decoration: none;
 }
 
 .hero {
